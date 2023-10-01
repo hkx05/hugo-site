@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on HUGO amfoss</title>
-    <link>http://example.org/posts/</link>
+    <link>https://github.com/hkx05/hkx05.github.io/posts/</link>
     <description>Recent content in Posts on HUGO amfoss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Sep 2023 06:50:37 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 06:50:37 +0530</lastBuildDate><atom:link href="https://github.com/hkx05/hkx05.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/posts/example/</link>
+      <link>https://github.com/hkx05/hkx05.github.io/posts/example/</link>
       <pubDate>Thu, 21 Sep 2023 06:50:37 +0530</pubDate>
       
-      <guid>http://example.org/posts/example/</guid>
+      <guid>https://github.com/hkx05/hkx05.github.io/posts/example/</guid>
       <description>Hello, I&amp;rsquo;m Harikrishna TP I&amp;rsquo;m currently a b.tech CSE student at Amrita Vishwa Vidyapeetham, Amritapuri. I&amp;rsquo;m making this webiste as part of my amfoss praveshan task and it seems like im certainly enjoying it !.
 My Journey I came to this college without knowing much about its student club background. but, when I came to know more about it, i was very impressed and particularly interested aswell. I want a taste of amfoss and I&amp;rsquo;m doing this to make myself a part of that beautiful community.</description>
     </item>
     
     <item>
       <title>My Aproach</title>
-      <link>http://example.org/posts/readme/</link>
+      <link>https://github.com/hkx05/hkx05.github.io/posts/readme/</link>
       <pubDate>Thu, 21 Sep 2023 06:50:37 +0530</pubDate>
       
-      <guid>http://example.org/posts/readme/</guid>
+      <guid>https://github.com/hkx05/hkx05.github.io/posts/readme/</guid>
       <description>My Approach for this task This was a bit edgy or different for me. At first it all seemed pretty good as simple but the problems started when i had to make new repos and stuff. That took some time but before that, figuring out how all these themes and stuff worked was another cahllenge. i had to try different themes and at last i found this one out. thankfully, it didnt have problems i faced with the other themes and the operation was smooth.</description>
     </item>
     
